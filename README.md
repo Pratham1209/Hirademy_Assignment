@@ -34,9 +34,6 @@ Both, error and exception handling, are done for a better experience along with 
 1. Clone the repository:
    ```sh
    git clone https://github.com/Pratham1209/Hirademy_Assignment.git
-   ```
-
-Certainly! Here's the properly aligned version:
 
 ## Testing
 Postman collection for testing the API endpoints can be found [here](https://app.getpostman.com/run-collection/33785306-f00bd128-81ac-47a6-8f6b-fd087b86205b?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D33785306-f00bd128-81ac-47a6-8f6b-fd087b86205b%26entityType%3Dcollection%26workspaceId%3Dc774a886-e84a-448e-bb79-647c8372343e).
