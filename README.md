@@ -36,16 +36,20 @@ Both, error and exception handling, are done for a better experience along with 
    git clone https://github.com/Pratham1209/Hirademy_Assignment.git
    ```
 
+Certainly! Here's the properly aligned version:
+
 ## Testing
-Postman collection for testing the API endpoints can be found [here][<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://app.getpostman.com/run-collection/33785306-f00bd128-81ac-47a6-8f6b-fd087b86205b?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D33785306-f00bd128-81ac-47a6-8f6b-fd087b86205b%26entityType%3Dcollection%26workspaceId%3Dc774a886-e84a-448e-bb79-647c8372343e).
+Postman collection for testing the API endpoints can be found [here](https://app.getpostman.com/run-collection/33785306-f00bd128-81ac-47a6-8f6b-fd087b86205b?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D33785306-f00bd128-81ac-47a6-8f6b-fd087b86205b%26entityType%3Dcollection%26workspaceId%3Dc774a886-e84a-448e-bb79-647c8372343e).
+
+[![Run In Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/33785306-f00bd128-81ac-47a6-8f6b-fd087b86205b?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D33785306-f00bd128-81ac-47a6-8f6b-fd087b86205b%26entityType%3Dcollection%26workspaceId%3Dc774a886-e84a-448e-bb79-647c8372343e)
 
 ## Contributing
 Contributions are welcome! Please follow the contribution guidelines outlined in `CONTRIBUTING.md`.
 
 ## Contact
 For any inquiries or support, feel free to contact:
-- Pratham Patharkar
-- prathampatharkar09@gmail.com
+- Name: Pratham Patharkar
+- Email ID: prathampatharkar09@gmail.com
 - LinkedIn: https://www.linkedin.com/in/pratham-patharkar
 
 Project Link: [https://github.com/Pratham1209/Hirademy_Assignment.git](https://github.com/Pratham1209/Hirademy_Assignment.git)
