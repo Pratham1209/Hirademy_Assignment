@@ -46,7 +46,7 @@ Contributions are welcome! Please follow the contribution guidelines outlined in
 ## Contact
 For any inquiries or support, feel free to contact:
 - Name: Pratham Patharkar
-- Email ID: prathampatharkar09@gmail.com
+- Email ID: prathampatharkar12@gmail.com
 - LinkedIn: https://www.linkedin.com/in/pratham-patharkar
 
 Project Link: [https://github.com/Pratham1209/Hirademy_Assignment.git](https://github.com/Pratham1209/Hirademy_Assignment.git)
